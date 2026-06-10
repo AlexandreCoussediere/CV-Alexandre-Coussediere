@@ -21,7 +21,7 @@
 - **Mimo (HTML/CSS/Python)** – Certifications obtenues (2026)
 
 ---
-## **Mes Projets**
+## **Mes Projets (à venir)**
 Voici quelques projets que j’ai réalisés :
 
 ### **Site Web (HTML/CSS)**
