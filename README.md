@@ -5,18 +5,18 @@
 ---
 
 ## **Mes Compétences**
-| **Catégorie**          | **Compétences**                                                                 |
-|------------------------|---------------------------------------------------------------------------------|
-| **Programmation**      | Python (Codingame 100%), Mimo), HTML/CSS (Mimo)                                |
-| **Langues**            | Anglais (niveau B1+, certifié Evalangue)                                       |
-| **Compétences numériques** | Pix (480/895 points)                                                        |
-| **Outils**             | GitHub, VS Code                                                                |
+| **Catégorie**              | **Compétences**                         |
+|----------------------------|-----------------------------------------|
+| **Programmation**          | Python/HTML/CSS et bases de JavaScript  |
+| **Langues**                | Anglais (niveau B1+, certifié Evalangue)|
+| **Compétences numériques** | Pix (480/895 points)                    |
+| **Outils**                 | GitHub, VS Code                         |
 
 ---
 
 ## **Mes Certifications**
 - **Evalangue (Test d'anglais)** – Niveau B1+ (2026)
-- [**Codingame (Python)**](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20python%20codingame.pdf) – 100% (2025)
+- [**Codingame (Python)**](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20python%20codingame.pdf) – 100% (2026)
 - [**Pix (Compétences numériques)**](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/certification-pix-20260527.pdf) – 480/895 points (2026)
 - **Mimo ([HTML](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/HTML%20certificate.pdf)/[CSS](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/CSS%20certificate.pdf)/[Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/python%20certificate.pdf))** – Certifications obtenues (2025-2026)
 
