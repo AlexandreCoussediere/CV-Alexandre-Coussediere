@@ -7,7 +7,7 @@
 ## **Mes Compétences**
 | **Catégorie**          | **Compétences**                                                                 |
 |------------------------|---------------------------------------------------------------------------------|
-| **Programmation**      | Python (Codingame 100%, Mimo), HTML/CSS (Mimo)                                |
+| **Programmation**      | Python ([Codingame](https://www.codingame.com/profile/33bbfbca3bfc53e6577de9eb889e68216898037) 100%, Mimo), HTML/CSS (Mimo)                                |
 | **Langues**            | Anglais (niveau B1+, certifié Evalangue)                                       |
 | **Compétences numériques** | Pix (480/895 points)                                                        |
 | **Outils**             | GitHub, VS Code                                                                |
@@ -21,23 +21,23 @@
 - **Mimo (HTML/CSS/Python)** – Certifications obtenues (2026)
 
 ---
-## **Mes Projets (à venir)**
+## **Mes Projets**
 Voici quelques projets que j’ai réalisés :
 
 ### **Site Web (HTML/CSS)**
 
 
-### **Algorythme Python**
+### [**Projets Python**](https://github.com/AlexandreCoussediere/Projets-Python)
 
 ---
 ##  **Me Contacter**
 - **Email** : alcoussediere@yahoo.com
-- **GitHub** : https://github.com/AlexandreCoussediere
+- **GitHub** : [https://github.com/AlexandreCoussediere](https://github.com/AlexandreCoussediere)
 
 ---
 ## **Centres d'Intérêt**
-- **Informatique** : Programmation, création de sites web, jeux vidéo.
-- **Langues** : Apprentissage de l’anglais et de l’espagnol à l'école, et allemand en autodidacte.
+- **Informatique** : Programmation, création de sites web, jeux vidéo, cybersécurité.
+- **Langues** : Apprentissage de l’anglais et de l’espagnol à l'école, et de l'allemand en autodidacte.
 - **Autres** : Écologie, sport, échecs.
 
 ---
