@@ -16,7 +16,7 @@
 
 ## **Mes Certifications**
 - **Evalangue (Test d'anglais)** – Niveau B1+ (2026)
-- [**Codingame (Python)**](https://www.codingame.com/profile/33bbfbca3bfc53e6577de9eb889e68216898037) – 100% (2025)
+- [**Codingame (Python)**]() – 100% (2025)
 - **Pix (Compétences numériques)** – 480/895 points (2026)
 - **Mimo ([HTML](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/MIMO/HTML%20certificate.pdf)/[CSS](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/MIMO/CSS%20certificate.pdf)/[Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/MIMO/python%20certificate.pdf))** – Certifications obtenues (2025-2026)
 
