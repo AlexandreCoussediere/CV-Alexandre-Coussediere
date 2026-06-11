@@ -7,7 +7,7 @@
 ## **Mes Compétences**
 | **Catégorie**          | **Compétences**                                                                 |
 |------------------------|---------------------------------------------------------------------------------|
-| **Programmation**      | Python ([Codingame](https://www.codingame.com/profile/33bbfbca3bfc53e6577de9eb889e68216898037) 100%, Mimo), HTML/CSS (Mimo)                                |
+| **Programmation**      | Python ([Codingame 100%](https://www.codingame.com/profile/33bbfbca3bfc53e6577de9eb889e68216898037), [Mimo](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/python%20certificate.pdf), [HTML](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/HTML%20certificate.pdf)/[CSS](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/CSS%20certificate.pdf) (Mimo)                                |
 | **Langues**            | Anglais (niveau B1+, certifié Evalangue)                                       |
 | **Compétences numériques** | Pix (480/895 points)                                                        |
 | **Outils**             | GitHub, VS Code                                                                |
