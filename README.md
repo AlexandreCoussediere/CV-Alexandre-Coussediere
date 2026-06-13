@@ -1,6 +1,8 @@
 # Bonjour, je m'appelle Alexandre Coussediere !
 
-**Élève de 3ᵉ** passionné par l’informatique, les langues et les projets concrets. Je maîtrise **Python**, **HTML/CSS**, et j’ai obtenu plusieurs certifications en programmation, informatique et en anglais.
+**Élève de 3ᵉ** en quête d’opportunités pour développer mes compétences en programmation et en langues, passionné par l’informatique, les langues et les projets concrets. Je maîtrise **Python**, **HTML/CSS**, **JavaScript** et j’ai obtenu plusieurs certifications en programmation, informatique et en anglais.
+
+*Dernière mise à jour : Juin 2026*
 
 ---
 
