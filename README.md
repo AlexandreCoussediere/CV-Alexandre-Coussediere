@@ -7,12 +7,12 @@ collégien en classe de 3ᵉ passionné par l’informatique, les langues et les
 ---
 
 ## **Mes Compétences**
-| **Catégorie**              | **Compétences**                         |
-|----------------------------|-----------------------------------------|
-| **Programmation**          | Python/HTML/CSS et bases de JavaScript  |
-| **Langues**                | Anglais (niveau B1+, certifié Evalangue)|
-| **Compétences numériques** | Pix (480/895 points)                    |
-| **Outils**                 | GitHub, VS Code                         |
+| **Catégorie**              | **Compétences**                                                                                                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Programmation**          | Python/HTML/CSS et bases de JavaScript                                                                                                |
+| **Langues**                | Anglais (niveau B1+, certifié Evalangue)                                                                                              |
+| **Compétences numériques** | Pix (Niveau 5/8, 480/895 points) – Validation des compétences en sécurité, création de contenu et résolution de problèmes numériques. |
+| **Outils**                 | GitHub, VS Code                                                                                                                       |
 
 ---
 
@@ -27,9 +27,10 @@ collégien en classe de 3ᵉ passionné par l’informatique, les langues et les
 Voici quelques projets que j’ai réalisés :
 
 - ###  [**Projets Web (HTML/CSS/JavaScript)**](https://github.com/AlexandreCoussediere/Projets-Web)
-
+  *Une collection de projets web. Tous développés avec HTML, CSS et JavaScript.*
 
 - ###  [**Projets Python**](https://github.com/AlexandreCoussediere/Projets-Python)
+  *Des projets en Python comme un jeu de pendu, un générateur de mots de passe sécurisés et un script type To-Do List.*
 
 ---
 ##  **Me Contacter**
