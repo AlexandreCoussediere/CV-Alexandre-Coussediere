@@ -26,10 +26,10 @@
 ## **Mes Projets**
 Voici quelques projets que j’ai réalisés :
 
-### [**Projets Web (HTML/CSS/JavaScript)**](https://github.com/AlexandreCoussediere/Projets-Web)
+- ###  [**Projets Web (HTML/CSS/JavaScript)**](https://github.com/AlexandreCoussediere/Projets-Web)
 
 
-### [**Projets Python**](https://github.com/AlexandreCoussediere/Projets-Python)
+- ###  [**Projets Python**](https://github.com/AlexandreCoussediere/Projets-Python)
 
 ---
 ##  **Me Contacter**
