@@ -6,6 +6,14 @@
 
 ---
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AlexandreCoussediere)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/AlexandreCoussediere)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/AlexandreCoussediere)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/AlexandreCoussediere)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexandreCoussediere)
+
+---
+
 ## **Mes Compétences**
 | **Catégorie**              | **Compétences**                                                                                                                       |
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -16,25 +24,41 @@
 
 ---
 
-## **Mes Certifications**
-- **Evalang ([Test d'anglais](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/certification%20evalang%20anglais%20B1%2B.pdf))** – Niveau B1+ (2026)
-- **Codingame ([Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20python%20codingame.pdf)/[JavaScript](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20JavaScript%20codingame.pdf))** – 100% / 65% (2026)
-- [**Pix (Compétences numériques)**](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/certification-pix-20260527.pdf) – 480/895 points (2026)
-- **Mimo.org ([HTML](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/HTML%20certificate.pdf)/[CSS](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/CSS%20certificate.pdf)/[Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/python%20certificate.pdf))** – Certifications obtenues (2025-2026)
+## Mes Certifications
+*(Toutes les certifications sont vérifiables via les liens ci-dessous.)*
+
+- **Evalang (Anglais B1+)**
+  [Voir la certification](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/certification%20evalang%20anglais%20B1%2B.pdf) • **2026**
+  *Niveau confirmé en compréhension orale et écrite.*
+
+- **Codingame (Python & JavaScript)**
+  - [Python – 100%](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20python%20codingame.pdf) • **2026**
+    *Maîtrise des bases de la programmation logique et algorithmique.*
+  - [JavaScript – 65%](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20JavaScript%20codingame.pdf) • **2026**
+
+- **Pix (Compétences numériques)**
+  [Voir la certification](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/certification-pix-20260527.pdf) • **2026**
+  *Niveau 5/8 (480/895 points) – Compétences validées en sécurité, création de contenu et résolution de problèmes.*
+
+- **Mimo.org (HTML, CSS, Python)**
+  - [HTML](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/HTML%20certificate.pdf) • **2026**
+  - [CSS](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/CSS%20certificate.pdf) • **2025**
+  - [Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/python%20certificate.pdf) • **2026**
+
 
 ---
-## **Mes Projets**
-Voici quelques projets que j’ai réalisés :
+## Mes Projets
+Voici les dépôts de mes projets. Pour plus de détails (objectifs, technologies utilisées, apprentissages), consultez les README dans les repositories correspondants :
 
-- ###  [**Projets Web (HTML/CSS/JavaScript)**](https://github.com/AlexandreCoussediere/Projets-Web)
-  *Une collection de projets web. Tous développés avec HTML, CSS et JavaScript.*
+- **[Projets Web (HTML/CSS/JavaScript)](https://github.com/AlexandreCoussediere/Projets-Web)**
+  *Une collection de projets web développés avec HTML, CSS et JavaScript.*
 
-- ###  [**Projets Python**](https://github.com/AlexandreCoussediere/Projets-Python)
+- **[Projets Python](https://github.com/AlexandreCoussediere/Projets-Python)**
   *Des projets en Python pour renforcer mes compétences en algorithmie et scripting.*
 
 ---
-##  **Me Contacter**
-- **Email** : alcoussediere@yahoo.com
+## Me contacter
+- **Email** : [alcoussediere@yahoo.com](mailto:alcoussediere@yahoo.com)
 - **GitHub** : [https://github.com/AlexandreCoussediere](https://github.com/AlexandreCoussediere)
 
 ---
