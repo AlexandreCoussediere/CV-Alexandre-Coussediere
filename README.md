@@ -1,6 +1,6 @@
 # Bonjour ! Je m’appelle Alexandre Coussediere,
 
-collégien en classe de 3ᵉ passionné par l’informatique, les langues et les projets concrets. En quête d’opportunités pour développer mes compétences techniques et collaborer sur des initiatives stimulantes, je maîtrise **Python**, **HTML/CSS** et **JavaScript**, et j’ai obtenu plusieurs certifications en programmation et en anglais.
+**Collégien en classe de 3ᵉ** passionné par **l’informatique**, **les langues** et **les projets concrets**. En quête d’opportunités pour développer mes compétences techniques, collaborer sur des initiatives stimulantes et contribuer à des projets innovants, je maîtrise **Python**, **HTML/CSS** et **JavaScript**. Mon objectif ? **Grandir techniquement et humainement** dans un environnement exigeant.
 
 *Dernière mise à jour : 13 juin 2026*
 
@@ -30,7 +30,7 @@ Voici quelques projets que j’ai réalisés :
   *Une collection de projets web. Tous développés avec HTML, CSS et JavaScript.*
 
 - ###  [**Projets Python**](https://github.com/AlexandreCoussediere/Projets-Python)
-  *Des projets en Python comme un jeu de pendu, un générateur de mots de passe sécurisés et un script type To-Do List.*
+  *Des projets en Python pour renforcer mes compétences en algorithmie et scripting.*
 
 ---
 ##  **Me Contacter**
@@ -42,6 +42,10 @@ Voici quelques projets que j’ai réalisés :
 - **Informatique** : Programmation, création de sites web, jeux vidéo, cybersécurité.
 - **Langues** : Apprentissage de l’anglais et de l’espagnol à l'école, et de l'allemand en autodidacte.
 - **Autres** : Écologie, sport, échecs.
+
+---
+## **À propos de moi**
+Passionné par l’informatique et les langues, je suis **autodidacte, rigoureux et toujours en quête d’apprendre**. Je sais **me former seul** (certifications, projets) et **travailler en équipe** (collaborations scolaires ou personnelles). Mon objectif ? **Contribuer à des projets innovants** tout en développant mes compétences techniques et humaines.
 
 ---
 ***Note** : Ce dépôt est en constante évolution ! Je travaille régulièrement sur de nouveaux projets.*
