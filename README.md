@@ -1,8 +1,8 @@
 # Bonjour, je m'appelle Alexandre Coussediere !
 
-**Élève de 3ᵉ** en quête d’opportunités pour développer mes compétences en programmation et en langues, passionné par l’informatique, les langues et les projets concrets. Je maîtrise **Python**, **HTML/CSS**, **JavaScript** et j’ai obtenu plusieurs certifications en programmation, informatique et en anglais.
+**Collégien de 3ᵉ** en quête d’opportunités pour développer mes compétences en programmation et en langues, passionné par l’informatique, les langues et les projets concrets. Je maîtrise **Python**, **HTML/CSS**, **JavaScript** et j’ai obtenu plusieurs certifications en programmation, informatique et en anglais.
 
-*Dernière mise à jour : Juin 2026*
+*Dernière mise à jour : 13 juin 2026*
 
 ---
 
@@ -20,7 +20,7 @@
 - **Evalang ([Test d'anglais](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/certification%20evalang%20anglais%20B1%2B.pdf))** – Niveau B1+ (2026)
 - **Codingame ([Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20python%20codingame.pdf)/[JavaScript](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/Certification%20JavaScript%20codingame.pdf))** – 100% / 65% (2026)
 - [**Pix (Compétences numériques)**](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/Autre%20certification/certification-pix-20260527.pdf) – 480/895 points (2026)
-- **Mimo ([HTML](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/HTML%20certificate.pdf)/[CSS](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/CSS%20certificate.pdf)/[Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/python%20certificate.pdf))** – Certifications obtenues (2025-2026)
+- **Mimo.org ([HTML](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/HTML%20certificate.pdf)/[CSS](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/CSS%20certificate.pdf)/[Python](https://github.com/AlexandreCoussediere/CV-Alexandre-Coussediere/blob/main/Certification/MIMO/python%20certificate.pdf))** – Certifications obtenues (2025-2026)
 
 ---
 ## **Mes Projets**
